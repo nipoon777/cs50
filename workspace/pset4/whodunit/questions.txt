@@ -1,0 +1,25 @@
+1.  TODO operations on BMP related data types based on microsofts manual
+2.  TODO simplify the data types like byte(8) word(16) dword(32) long(32) and determine whether they are signed or unsigned
+
+3.  TODO byte = 1B
+         dword = 4B
+         long = 4B
+         word = 2B
+
+4.  TODO ASCII values are Character "B" and "M" and in hexadecimal its values are "0x42" and "0x4D"
+5.  TODO
+         bfSize tells us the size of Bitmap file where
+         biSize tells us the size of Structure.
+6.  TODO
+          biHeight is negative, the bitmap is a top-down DIB and its origin is the upper-left corner.
+7.  TODO biBitCount
+8.  TODO 1.if intptr could not perform the read operation on the file
+         2.if the outptr in unable toperform write operation on file
+9.  TODO
+         it requires the quantity value to read as we read only struct we keep it 1
+10. TODO
+         3bytes of padding is needed
+11. TODO
+         it is a file position indicator
+12. TODO
+         is is used with fseek to find the current location

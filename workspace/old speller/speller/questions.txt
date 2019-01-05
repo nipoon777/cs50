@@ -1,0 +1,21 @@
+0.  TODO
+    it is the longest word in the dictionary
+1.  TODO
+    it is to get the resource usage
+    i.e the resources used by the system program.
+2.  TODO
+    16
+3.  TODO
+    because we need them to be used in multiple functions and to avoid stack overflow.
+4.  TODO
+    firstly we open the file and check for null so as to verify the file pointer
+    now we start reading the file character by character using for loop,
+    inside the for loop we check for multiple conditions
+    so as to satisfy the required conditions... once the word it is passed to different functions to check whether it is spelled correctly
+    we check each and every
+    single character and read the file character by character until the end of file is reached.
+
+5.  TODO
+    we need to operate only on alphabetical characters which has no special characters so for that to be possible
+6.  TODO
+    To prevent the changes to the parameters passed i.e the dictionary word or word to be checked

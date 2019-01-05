@@ -1,0 +1,8 @@
+0. TODO it allows the dimensions ranging from 3x3 to 9x9
+1. TODO the game is represented in a 2-D array
+2. TODO greet() is used to greet the players
+3. TODO 1.init(),
+        2.draw(),
+        3.bool move(int);
+        4.bool won();
+        
